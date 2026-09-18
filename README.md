@@ -1,2 +1,2 @@
 # TARA
-working through TARA materials, which if forked from ARENA materials
+working through TARA materials, which is forked from ARENA materials
